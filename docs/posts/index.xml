@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Blog Personal con ezhil</title>
-    <link>https://msolers.github.io/bloghugo/posts/</link>
+    <link>https://msolers.js.org/posts/</link>
     <description>Recent content in Posts on Blog Personal con ezhil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Tue, 14 Apr 2020 19:20:06 +0200</lastBuildDate>
     
-	<atom:link href="https://msolers.github.io/bloghugo/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://msolers.js.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mi Primer Post</title>
-      <link>https://msolers.github.io/bloghugo/posts/my-first-post/</link>
+      <link>https://msolers.js.org/posts/my-first-post/</link>
       <pubDate>Tue, 14 Apr 2020 19:20:06 +0200</pubDate>
       
-      <guid>https://msolers.github.io/bloghugo/posts/my-first-post/</guid>
+      <guid>https://msolers.js.org/posts/my-first-post/</guid>
       <description>Hola mundo!!
 Referencias  Primera Segunda  </description>
     </item>
