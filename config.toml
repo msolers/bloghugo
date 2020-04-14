@@ -1,4 +1,4 @@
-baseURL = "https://msolers.github.io/bloghugo/"
+baseURL = "https://msolers.github.io/bloghugo/."
 #baseURL = "http://localhost:1313/"
 languageCode = "es-ES"
 title = "Blog Personal con ezhil"
